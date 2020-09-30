@@ -1,22 +1,17 @@
-## &#10003; Installation
+## Installation and Setup Instructions
+Example:
+```Clone down this repository. You will need node and npm installed globally on your machine.
 
-To start clone the repository and install the dependencies using the commands below.
+Installation:
 
-```
-git clone 
-```
+npm install or yarn
 
-```
-yarn install or npm install
-```
+To Start Server:
 
-## &#10003; How to use
+npm start or yarn start
 
-Right .. after installing all the dependencies you can run the application and check if everything is working correctly.
+To Visit App:
 
-```
-yarn start or npm start
-```
+localhost:3000
 
-Ready!! if everything went well, just check your application in the browser http://127.0.0.1:3000/.
 ```
